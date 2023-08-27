@@ -1,0 +1,79 @@
+[
+	{
+		"id": 1,
+		"title": "How to get your first job as a self-taught programmer",
+		"cover": "https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=740&t=st=1680212792~exp=1680213392~hmac=109e2a4892f5bdb173c0309aef365a1302abf440fead4f84fe32b1c9431c5b59",
+		"author": "Gaines Sandoval",
+		"author_img": "https://img.freepik.com/free-photo/optimistic-attractive-ginger-girl-20s-wearing-purple-sweater-standing-ready-energized-violer-background-smiling-friendly-confident-camera-showing-readiness-have-fun_1258-81719.jpg?w=740&t=st=1680210970~exp=1680211570~hmac=f7e17b65c4ff1e1d9eb03221b69bb4343a54cd8542fa1010897497834d0fa496",
+		"published": "2023-03-17",
+		"level": "professional",
+		"topic": "programming",
+		"duration": 12
+	},
+	{
+		"id": 2,
+		"title": "Networking tips for self-taught programmers",
+		"cover": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010142.jpg?w=740&t=st=1680286727~exp=1680287327~hmac=a5e24f89eb22a45838fde2df3f9ea84c39997ecd8643d3e925daeb1ec6b7fecf",
+		"author": "Maura Maynard",
+		"author_img": "https://img.freepik.com/premium-photo/business-finance-employment-female-successful-entrepreneurs-concept-young-asian-businesswoman-bank-clerk-glasses-holding-laptop_1258-16623.jpg?w=740",
+		"published": "2023-03-12",
+		"level": "expert",
+		"topic": "designing",
+		"duration": 12
+	},
+	{
+		"id": 3,
+		"title": "How to market yourself as a self-taught programmer",
+		"cover": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?w=740&t=st=1680286827~exp=1680287427~hmac=e0b1a48f759424bc447b30f0823b27619fb177851dcbd8900024ca1c790486ff",
+		"author": "Clare Donaldson",
+		"author_img": "https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?w=740&t=st=1680205370~exp=1680205970~hmac=d6c64c210b27158b768154b4c7629bf5d3b27a47fd22e4c41148e12fa07a5828",
+		"published": "2023-03-12",
+		"level": "professional",
+		"topic": "designing",
+		"duration": 10
+	},
+	{
+		"id": 4,
+		"title": "Tips for job searching as a self-taught programmer",
+		"cover": "https://img.freepik.com/premium-photo/various-computer-equipment-with-programming-code-screens-table-dark-room-cyber-security-concept-copy-space_236854-23136.jpg?w=740",
+		"author": "Solomon Russell",
+		"author_img": "https://img.freepik.com/free-photo/close-up-shot-pretty-woman-with-perfect-teeth-dark-clean-skin-having-rest-indoors-smiling-happily-after-received-good-positive-news_273609-1248.jpg?w=740&t=st=1680205442~exp=1680206042~hmac=5648d63d3b77cbd35b802876ef2349402039f8f7612def89b0a1b5ff084ff834",
+		"published": "2023-03-18",
+		"level": "professional",
+		"topic": "programming",
+		"duration": 12
+	},
+	{
+		"id": 5,
+		"title": "Overcoming imposter syndrome as a self-taught programmer",
+		"cover": "https://img.freepik.com/free-vector/robot-human_53876-90440.jpg?w=740&t=st=1680286990~exp=1680287590~hmac=01d49cbda5126b6cdafb13274bfda82fc1b5d3497ed6ab078b52ae62b3d9ab90",
+		"author": "Haynes Owen",
+		"author_img": "https://img.freepik.com/free-photo/good-deal-right-corner-confident-pleasant-friendly-looking-african-american-gorgeous-woman-with-afro-haircut-asking-check-out-visit-store-page-pointing-finger-left-smiling-looking-camera_1258-85037.jpg?w=740&t=st=1680205476~exp=1680206076~hmac=08a12764e6676e6ee00c0b5729d6b33d5d72b56ebd33f5737e69d52f17adc25d",
+		"published": "2023-03-21",
+		"level": "professional",
+		"topic": "developing",
+		"duration": 10
+	},
+	{
+		"id": 6,
+		"title": "Learning resources and strategies for self-taught programmers",
+		"cover": "https://img.freepik.com/free-vector/digital-binary-code-algorithm-stream-matrix-background_1017-25328.jpg?w=740&t=st=1680287054~exp=1680287654~hmac=c662b9b2ae1c2c23115b95a851543bfdc87d54209086dc428b8c58fdf7531455",
+		"author": "Hays Sutton",
+		"author_img": "https://img.freepik.com/free-photo/portrait-beautiful-young-woman-standing-grey-wall_231208-10760.jpg?w=740&t=st=1680205565~exp=1680206165~hmac=529be8129bc5a769ae0f92cd5d1a0d58746fd1ab0e2e4c9a418a23d339aa24f5",
+		"published": "2023-03-17",
+		"level": "professional",
+		"topic": "designing",
+		"duration": 14
+	},
+	{
+		"id": 7,
+		"title": "The benefits and challenges of being a self-taught programmer",
+		"cover": "https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=740&t=st=1680212792~exp=1680213392~hmac=109e2a4892f5bdb173c0309aef365a1302abf440fead4f84fe32b1c9431c5b59",
+		"author": "Angelique Padilla",
+		"author_img": "https://img.freepik.com/free-photo/lifestyle-beauty-fashion-people-emotions-concept-young-asian-female-office-manager-ceo-with-pleased-expression-standing-white-background-smiling-with-arms-crossed-chest_1258-59329.jpg?w=740&t=st=1680205634~exp=1680206234~hmac=d05251b5c1a5414bc4dc0557fd2b6ecd663091f0923a3e3a2e44070ef2682095",
+		"published": "2023-03-15",
+		"level": "professional",
+		"topic": "developing",
+		"duration": 14
+	}
+]

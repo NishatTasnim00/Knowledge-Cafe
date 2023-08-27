@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"ques": "Props vs state.",
+		"ans": "The difference between props and react are given here. State is managed within the component on the other hand props get passed to the component. State can be changed(mutable) but props are read-only and cannot be changed (immutable). State can be accessed using the use state hooks in functional components and in-class components can be accessed using this State whereas Props can be accessed in functional components using props parameter and in-class component, props can the accessed using these props. State changes can be asynchronous on the contrary props are read-only. State is controlled by react components whereas props are controlled by whoever renders the components.State can used to display changes with the component and props are used to communicate between components."
+                
+	},
+    {
+		"id": 2,
+		"ques": "How does useState work?",
+		"ans": "useState is a type of React Hook that allows to add state to a functional component. It returns an array with two values: the current state and a function to update it. The Hook takes an initial state value as an argument and returns an updated state value whenever the setter function is called. It can be used like this: //const [state, setState] = useState(initialValue);// Here, the initialValue is the value to start with, and state is the current state value that can be used in the component. The setState function can be used to update the state, triggering a re-render of component. UseState can store any type of value, whereas the state in a class component is limited to being an object. This includes primitive data types like string, number, and Boolean, as well as complex data types such as array, object, and function. It can even cover custom data types like class instances. Basically, anything that can be stored in a JavaScript variable can be stored in a state-managed by useState."
+                    
+	},
+        {
+		"id": 3,
+		"ques": "Purpose of useEffect other than fetching data.",
+		"ans": "There are so many usese of useEffect rather than fetching data. Such as, validating input field, live filtering, trigger animation on new array value, update paragraph list on fetched API data update, updating fetched API data to get BTC updated price, etc."
+		
+	},
+            {
+		"id": 4,
+		"ques": "How Does React work?",
+		"ans": "React is a JavaScript library. One of the biggest advantages of using React is that you can infuse HTML code with JavaScript. Users can create a representation of a DOM node by declaring the Element function in React. The syntax of the HTML code in React is similar to XML. Instead of using the traditional DOM class, React uses className. JSX tags have a name, children, and attributes. Numeric values and expressions must be written inside curly brackets. The quotation marks in JSX attributes represent strings, similar to JavaScript. In most cases, React is written using JSX instead of standard JavaScript to simplify components and keep code clean."
+                
+	}
+]    
